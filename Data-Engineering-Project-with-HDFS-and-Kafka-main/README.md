@@ -5,7 +5,7 @@
 
 A project to create a data pipeline with data taken from Hepsiburada data engineering case study.
 
-* [docker-compose.yml](Data-Engineering-Project-with-HDFS-and-Kafka-main/docker-compose.yml)
+* [docker-compose.yml](/Data-Engineering-Project-with-HDFS-and-Kafka-main/docker-compose.yml)
 
 
 * [config-hadoop](/config-hadoop)
