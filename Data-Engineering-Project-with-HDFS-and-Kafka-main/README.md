@@ -8,39 +8,39 @@ A project to create a data pipeline with data taken from Hepsiburada data engine
 * [docker-compose.yml](/Data-Engineering-Project-with-HDFS-and-Kafka-main/docker-compose.yml)
 
 
-* [config-hadoop](/config-hadoop)
+* [config-hadoop](/Data-Engineering-Project-with-HDFS-and-Kafka-main/config-hadoop)
 
 
-* [Producer](/docker/producer/)
+* [Producer](/Data-Engineering-Project-with-HDFS-and-Kafka-main/docker/producer/)
     
-    * [Dockerfile](/docker/producer/Dockerfile) 
+    * [Dockerfile](/Data-Engineering-Project-with-HDFS-and-Kafka-main/docker/producer/Dockerfile) 
 
-    * [HB data](/docker/producer/hb-data.json)
+    * [HB data](/Data-Engineering-Project-with-HDFS-and-Kafka-main/docker/producer/hb-data.json)
 
-    * [Kafka producer](/docker/producer/kafka_producer.py)
+    * [Kafka producer](/Data-Engineering-Project-with-HDFS-and-Kafka-main/docker/producer/kafka_producer.py)
 
-    * [requirements](/docker/producer/requirements.txt)
+    * [requirements](/Data-Engineering-Project-with-HDFS-and-Kafka-main/docker/producer/requirements.txt)
 
 
-* [Consumer](/docker/consumer/)
+* [Consumer](/Data-Engineering-Project-with-HDFS-and-Kafka-main/docker/consumer/)
 
-    * [Dockerfile](/docker/consumer/Dockerfile) 
+    * [Dockerfile](/Data-Engineering-Project-with-HDFS-and-Kafka-main/docker/consumer/Dockerfile) 
 
-    * [Kafka consumer](/docker/consumer/kafka_consumer.py)
+    * [Kafka consumer](/Data-Engineering-Project-with-HDFS-and-Kafka-main/docker/consumer/kafka_consumer.py)
 
-    * [requirements](/docker/consumer/requirements.txt)
+    * [requirements](/Data-Engineering-Project-with-HDFS-and-Kafka-main/docker/consumer/requirements.txt)
 
-    * [HDFS](/docker/consumer/hdfs.py)
+    * [HDFS](/Data-Engineering-Project-with-HDFS-and-Kafka-main/docker/consumer/hdfs.py)
 
 ### Steps
 
 Open an Ubuntu machine via AWS EC2 for the project.
 
-![](/images/instance.png)
+![](/Data-Engineering-Project-with-HDFS-and-Kafka-main/images/instance.png)
 
 Open the necessary ports on the machine through the firewall.
 
-![](/images/ingress.png)
+![](/Data-Engineering-Project-with-HDFS-and-Kafka-main/images/ingress.png)
 
 You also need to open the necessary ports with the operating system.
 
