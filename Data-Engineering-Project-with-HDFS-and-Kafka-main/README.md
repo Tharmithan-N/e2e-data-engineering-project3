@@ -74,4 +74,3 @@ Data from HDFS. IP:9870 or [0.0.0.0:9870](http://0.0.0.0:9870)
 Hadoop cluster interface. IP:8088 or [0.0.0.0:8088](http://0.0.0.0:8088)
 ![](/images/hadoop.png)
 
-[Ahmet Furkan Demir](https://ahmetfurkandemir.com/)
